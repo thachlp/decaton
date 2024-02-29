@@ -3,18 +3,18 @@
 ## Tech Stack
 thachlp/decaton is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Asciidoctor](https://asciidoctor.org) – Languages
 - [Java](https://www.java.com) – Languages
-- [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Logback](https://logback.qos.ch/) – Log Management
 - [Mockito](https://site.mockito.org/) – Testing Frameworks
 - [SLF4J](http://slf4j.org/) – Log Management
-- [Logback](https://logback.qos.ch/) – Log Management
-- [Asciidoctor](https://asciidoctor.org) – Languages
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
 - [Dataform](https://dataform.co/) – Business Intelligence
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -24,18 +24,18 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 thachlp/decaton is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg' alt='Asciidoctor'/> [Asciidoctor](https://asciidoctor.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'/> [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg' alt='Mockito'/> [Mockito](https://site.mockito.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='SLF4J'/> [SLF4J](http://slf4j.org/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png' alt='Logback'/> [Logback](https://logback.qos.ch/) – Log Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/2924/gvQpykZd_400x400.jpg' alt='Asciidoctor'/> [Asciidoctor](https://asciidoctor.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/1528/apache-zookeeper.png' alt='Zookeeper'/> [Zookeeper](http://zookeeper.apache.org/) – Open Source Service Discovery
 - <img width='25' height='25' src='https://img.stackshare.io/service/11236/Group_22__3_.png' alt='Dataform'/> [Dataform](https://dataform.co/) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thachlp/decaton](https://github.com/thachlp/decaton)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|13<br/>Tools used|01/05/24 <br/>Report generated|
+|13<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
